@@ -1,7 +1,7 @@
 apiVersion: v2
 name: reference-spring-boot-mvn-jkube-deploy
 description: >-
-  A helm chart for Kubernetest to deploy the 'reference-spring-boot-mvn' application.
+  A helm chart for Kubernetest to deploy the 'reference-spring-boot-mvn-jkube' application.
 type: application
 
 # This is the chart version. This version number should be incremented each time you make changes
