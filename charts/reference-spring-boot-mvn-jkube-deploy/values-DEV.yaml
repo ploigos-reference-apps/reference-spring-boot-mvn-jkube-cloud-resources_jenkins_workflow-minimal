@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-spring-jkube-jenkins-min/hello@sha256:b87ecfb1869ca69a4a13c8ef6131147d92882baf08e4e1e08a1bc0251d36697f # written by ploigos-step-runner
+  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-spring-jkube-jenkins-min/hello@sha256:8ab7159788a17c40c1dc9a0e09120e866ff5e4a5842a4ba018d73222e064933a # written by ploigos-step-runner
